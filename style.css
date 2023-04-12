@@ -1,5 +1,5 @@
 body{
-    background-image: url(./1200x1200bf-60.jpg);
+    background-image: url(./imagenes/wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;    
     color: whitesmoke;
@@ -12,26 +12,13 @@ p{
     text-align: center;
     font-weight: bolder;
 }
-ol{
-    
-    list-style-type: upper-roman;
-    font-family: fantasy; 
-}
-.menu{
-    display: inline;
-    padding-right: 5px;
-}
-section{
-    
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-#imagen{
-    transform: rotateY(180deg);
-}
 ul{
-    text-align: unset;
-    padding-left: 33%;
-    padding-right: 33%;
+    display: inline-flex;
+    font-family: fantasy; 
+    list-style:armenian;
+}
+li{
+    margin-left: 25px;
 }
 h2{
     text-align: center;
