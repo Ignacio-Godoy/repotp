@@ -3,5 +3,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color:beige;
-    
+    font-family: 'Righteous', cursive;
+    font-weight: lighter;
+}
+#bio{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
 }
