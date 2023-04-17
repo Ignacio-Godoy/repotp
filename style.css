@@ -37,3 +37,19 @@ th,td,tr{
 hr{
     width: 80%;
 }
+#bio{
+    background-image: url(./imagenes/CWAJTVM7GZGWJPHIKBZQRYMN24.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:beige;
+    font-family: 'Righteous', cursive;
+    font-weight: lighter;
+
+}
+#bioP{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-weight: lighter;
+}
